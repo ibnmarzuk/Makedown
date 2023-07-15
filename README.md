@@ -9,3 +9,4 @@ for heading
 *head*
 **head**
 ***head***
+'bold'
